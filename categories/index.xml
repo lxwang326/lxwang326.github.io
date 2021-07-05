@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Hugo tranquilpeak theme</title>
-    <link>https://example.org/categories/</link>
+    <link>https://lxwang326.github.io/categories/</link>
     <description>Recent content in Categories on Hugo tranquilpeak theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Jun 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Jun 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://lxwang326.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>releases</title>
-      <link>https://example.org/categories/releases/</link>
+      <link>https://lxwang326.github.io/categories/releases/</link>
       <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/categories/releases/</guid>
+      <guid>https://lxwang326.github.io/categories/releases/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tranquilpeak</title>
-      <link>https://example.org/categories/tranquilpeak/</link>
+      <link>https://lxwang326.github.io/categories/tranquilpeak/</link>
       <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/categories/tranquilpeak/</guid>
+      <guid>https://lxwang326.github.io/categories/tranquilpeak/</guid>
       <description></description>
     </item>
     
     <item>
       <title>showcase</title>
-      <link>https://example.org/categories/showcase/</link>
+      <link>https://lxwang326.github.io/categories/showcase/</link>
       <pubDate>Sun, 14 Jun 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/categories/showcase/</guid>
+      <guid>https://lxwang326.github.io/categories/showcase/</guid>
       <description></description>
     </item>
     
     <item>
       <title>features</title>
-      <link>https://example.org/categories/features/</link>
+      <link>https://lxwang326.github.io/categories/features/</link>
       <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/categories/features/</guid>
+      <guid>https://lxwang326.github.io/categories/features/</guid>
       <description></description>
     </item>
     
